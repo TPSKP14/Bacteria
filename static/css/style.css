@@ -1,0 +1,12 @@
+
+body {
+
+  color: #e6a2a2;
+  background-color: rgb(255, 255, 255);
+}
+
+
+.jumbotron {
+    background-image: url("../images/bellybuttons.jpg");
+    background-size: cover;
+  }
